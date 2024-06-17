@@ -1,5 +1,5 @@
 # Ingredients
-- 5 lbs Alaskan salmon
+- 2 lbs Atlantic Salmon
 
 ## Instructions
 TODO
