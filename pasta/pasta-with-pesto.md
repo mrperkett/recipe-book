@@ -1,6 +1,10 @@
 # Ingredients
 - 1 lb rotini
-- 8oz jar of pesto
+- Parmesan cheese
+- 8oz jar of Barilla Rustic Basil Pesto
 
 ## Instructions
-TODO
+- Cook pasta
+- Grate parmesan cheese
+- Add pesto to taste
+- Add grated parmesan cheese to taste
