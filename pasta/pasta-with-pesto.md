@@ -1,6 +1,10 @@
 # Ingredients
 - Pasta
-- Pesto
+- Parmesan cheese
+- 8oz jar of Barilla Rustic Basil Pesto
 
 ## Instructions
-TODO
+- Cook pasta
+- Grate parmesan cheese
+- Add pesto to taste
+- Add grated parmesan cheese to taste
