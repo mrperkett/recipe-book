@@ -1,7 +1,10 @@
 # Ingredients
-- Noodles
+- Linguine
 - Ground beef
-- Classico marinera sauce
+- Classico marinera sauce (spicy red pepper)
 
 ## Instructions
-TODO
+- Cook pasta and set aside
+- Fry beef and drain fat
+- Add Classico sauce
+- Serve and enjoy!
