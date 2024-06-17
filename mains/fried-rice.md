@@ -1,5 +1,0 @@
-# Ingredients
-TODO
-
-## Instructions
-TODO
